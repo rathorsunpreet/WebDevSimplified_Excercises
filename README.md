@@ -1,6 +1,8 @@
 # Description
 This is my solution to the [Web Dev Simplified Learn SQL Excercises](https://github.com/WebDevSimplified/Learn-SQL) and showcases that I still know SQL.
 
+Short Demo: https://www.youtube.com/watch?v=gpbQwuxW-r4
+
 ## Setup
 I have utilized MariaDB with HeidiSQL to implement the solutions.
 
